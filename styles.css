@@ -1,0 +1,21 @@
+.firstSection{
+    text-align: center;
+    padding:15em;
+    min-height:100vh;
+}
+
+.secondSection{
+    text-align: center;
+    margin-top: 15%;
+    min-height:100vh;
+}
+
+.thirdSection{
+    text-align: center;
+    margin-top: 15%;
+    min-height:100vh;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
